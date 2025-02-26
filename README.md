@@ -1,12 +1,12 @@
-Hi 👋 My name is Helio
+Hi 👋 My name is Ulysia
 ======================
 
 IT student
 ----------
 
-I'm just a student trying to learn programming langauges
+I'm just a dragon trying to learn programming langauges
 
-* ✉️  You can contact me at [profileme@kudo.slmail.me](mailto:profileme@kudo.slmail.me)
+* ✉️  You can contact me at [ulysia@proton.me](mailto:ulysia@proton.me)
 * 🧠  I'm learning Python, C++, C, Rust, Kotlin (and other languages either for personal or university projects)
 
 ### Skills
