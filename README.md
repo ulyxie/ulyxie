@@ -1,13 +1,13 @@
 Hi 👋 My name is Ulysia
 ======================
 
-IT student
+IT junior Dev
 ----------
 
 I'm just a dragon trying to learn programming langauges
 
 * ✉️  You can contact me at [ulysia@proton.me](mailto:ulysia@proton.me)
-* 🧠  I'm learning Python, C++, C, Rust, Kotlin (and other languages either for personal or university projects)
+* 🧠  I'm learning Python, C#, Delphi and few other language
 
 ### Skills
 
