@@ -13,10 +13,6 @@ I'm currently working on a few automation tools using C# and Python.
 ## The future me
 My goals include deepening my knowledge of C#, diving into game development with Unreal Engine and Unity, and returning to C++ to master it fully.
 
-* 🌍  I'm based in Prague, the Czech Republic
-* ✉️  You can contact me at [ulysia@proton.me](mailto:ulysia@proton.me)
-* 🧠  I'm learning container-based devops
-
 ### Skills
 
 <p align="left">
