@@ -4,7 +4,14 @@ Hi 👋 My name is Ulysia
 Junior Software Dev
 -------------------
 
-I've been programming for around 8 years, from that 1 year professionally. I started my moth-killing business (programming and debugging) with C++ and Python. One to give me idea how computers work, the other to provide theory how algorithms should work. I was 15 at that time. Then high school started and I picked up C# and Web languages. With syntax basics from C++ and some ideas from Python, I picked up C# very quickly with its much simpler syntax. First employment came around and gave me skills from Transact-SQL and Delphi. While Delphi is not used as much in modern programming world, I do find it nice to use. Since then C# and Python are now my most used languages for home projects and Delphi professionally.
+## Like in Minecraft, we start by punching a tree.
+My programming journey began around 8 years ago (with 1 year of professional experience) when I was 13. I started my moth-killing business (programming and debugging) with C++ to understand how computers work and Python for algorithm theory. In high school, I added C# and web languages to my toolkit, finding C# easy to pick up thanks to my C++ background. My first professional role introduced me to Transact-SQL and Delphi. While Delphi isn't mainstream today, I enjoy using it. Currently, C# and Python are my go-to languages for personal projects, while Delphi is what I use professionally.
+
+## Projects where I'm slaying bugs
+I'm currently working on a few automation tools using C# and Python.
+
+## The future me
+My goals include deepening my knowledge of C#, diving into game development with Unreal Engine and Unity, and returning to C++ to master it fully.
 
 * 🌍  I'm based in Prague, the Czech Republic
 * ✉️  You can contact me at [ulysia@proton.me](mailto:ulysia@proton.me)
